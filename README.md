@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 📫 How to reach me:
-- **LinkedIn**: [linkedin.com/in/reza-dwi-fanani](https://linkedin.com/in/reza-dwi-fanani)
+- **LinkedIn**: https://www.linkedin.com/in/reza-dwi-fanani-888727294/
