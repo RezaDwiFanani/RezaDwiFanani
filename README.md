@@ -36,8 +36,7 @@ A Computer Science student at **BINUS University Malang** (5th Semester). Curren
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
-### 📈 Stats
-![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezadwifanani&show_icons=true&theme=radical)
+
 <!--
 **RezaDwiFanani/RezaDwiFanani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
