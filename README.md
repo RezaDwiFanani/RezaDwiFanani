@@ -1,7 +1,3 @@
-## Hi there 👋 I'm Reza Dwi Fanani
-
-A Computer Science student at **BINUS University Malang** (5th Semester). Currently leveling up my skills as a **Software Engineer Intern** at **PT DanaBagus Teknologi Indonesia**.
-
 ### 🚀 Tech Stack:
 
 #### **Languages & Backend**
