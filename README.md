@@ -32,8 +32,6 @@
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
-### 📊 My GitHub Stats
-[![Reza's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezadwifanani&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **RezaDwiFanani/RezaDwiFanani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
