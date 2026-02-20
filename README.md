@@ -32,6 +32,18 @@
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
+
+### 📊 My GitHub Journey
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rezadwifanani&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Reza's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezadwifanani&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezadwifanani&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
 <!--
 **RezaDwiFanani/RezaDwiFanani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
