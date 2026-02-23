@@ -40,11 +40,11 @@
 
 ### 📊 My GitHub Journey
 
-<p align="left">
+<!--<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rezadwifanani&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Reza's Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezadwifanani&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
 </p>
-
+-->
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezadwifanani&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
