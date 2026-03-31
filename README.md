@@ -46,7 +46,9 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezadwifanani&theme=radical&hide_border=true" alt="GitHub Streak" />
-  
+
+  <br/>
+
   <img src="https://github-readme-stats.vercel.app/api?username=rezadwifanani&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Reza's Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezadwifanani&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
 </div>
@@ -54,14 +56,22 @@
 ---
 
 ### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rezadwifanani/rezadwifanani/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rezadwifanani/rezadwifanani/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rezadwifanani/rezadwifanani/output/github-contribution-grid-snake.svg">
-</picture>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rezadwifanani/rezadwifanani/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rezadwifanani/rezadwifanani/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rezadwifanani/rezadwifanani/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
 
 ### 📫 How to reach me:
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-dwi-fanani-888727294/)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rezadwifanani_)
 
-
+</div>
