@@ -1,5 +1,14 @@
-### 🚀 Tech Stack:
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Reza+👋;Mobile+%26+Backend+Developer;Always+learning+new+things+🚀)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=rezadwifanani&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+---
+
+### 🚀 Tech Stack:
 #### **Languages & Backend**
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -9,9 +18,6 @@
 ![Swift](https://img.shields.io/badge/swift-%23F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-
-
 
 #### **Frameworks & Libraries**
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -34,33 +40,19 @@
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
-
+---
 
 ### 📊 My GitHub Journey
 
-<!--<p align="left">
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezadwifanani&theme=radical&hide_border=true" alt="GitHub Streak" />
+  
   <img src="https://github-readme-stats.vercel.app/api?username=rezadwifanani&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Reza's Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezadwifanani&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
-</p>
--->
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezadwifanani&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+</div>
 
-<!--
-**RezaDwiFanani/RezaDwiFanani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-dwi-fanani-888727294/)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rezadwifanani_)
