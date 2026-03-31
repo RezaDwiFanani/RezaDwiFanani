@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Reza+👋;Mobile+%26+Backend+Developer;Always+learning+new+things+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Reza+👋;Mobile+%26+FrondEnd+Developer;Always+learning+new+things+🚀)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=rezadwifanani&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
