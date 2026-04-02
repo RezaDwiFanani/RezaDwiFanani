@@ -15,7 +15,7 @@ jobs:
           github_user_name: RezaDwiFanani
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ffffff&color_dots=#1a1a2e,#4a4a8a,#7F52FF,#F05138,#00ADD8
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
