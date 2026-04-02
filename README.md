@@ -1,5 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,50:F05138,100:00ADD8&height=200&section=header&text=Reza%20Dwi%20Fanani&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Mobile%20%26%20FrondEnd%20Developer&descAlignY=55&descSize=20)
-✅
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile+✨;Mobile+%26+Backend+Developer+🚀;Kotlin+%7C+Swift+%7C+Go+%7C+Python+💻;Always+learning%2C+always+growing+🌱)](https://git.io/typing-svg)
