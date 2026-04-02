@@ -39,6 +39,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23040306.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-%23040306.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
 ### 🎨 Design & Creative
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
