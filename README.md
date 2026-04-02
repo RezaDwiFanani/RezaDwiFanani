@@ -41,7 +41,7 @@
 ![Cisco](https://img.shields.io/badge/cisco-%23040306.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23040306.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23040306.svg?style=for-the-badge&logo=cisco&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23040306.svg?style=for-the-badge&logo=cisco&logoColor=white)
+
 
 
 ### 🎨 Design & Creative
