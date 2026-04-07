@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?...&desc=Mobile%20%26%20Backend...)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,50:F05138,100:00ADD8&height=200&section=header&text=Reza%20Dwi%20Fanani&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Mobile%20%26%20Backend%20Developer&descAlignY=55&descSize=20)
 
 <div align="center">
 
