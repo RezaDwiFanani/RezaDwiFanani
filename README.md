@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=RezaDwiFanani&color=7F52FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RezaDwiFanani&theme=tokyo-night&hide_border=true&area=true&custom_title=Reza%20Contribution%20Graph" width="100%" alt="Activity Graph"/>
 
 </div>
 
