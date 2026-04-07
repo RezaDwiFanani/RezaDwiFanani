@@ -6,7 +6,6 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RezaDwiFanani&theme=tokyo-night&hide_border=true&area=true&custom_title=Reza%20Contribution%20Graph" width="100%" alt="Activity Graph"/>
 
 </div>
 
