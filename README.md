@@ -101,4 +101,4 @@
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,50:F05138,100:7F52FF&height=120&section=footer)conflict 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,50:F05138,100:7F52FF&height=120&section=footer)
