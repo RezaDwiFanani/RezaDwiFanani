@@ -2,7 +2,9 @@
 
 <div align="center">
 
+Melakukan refactoring pada model Job Code dan Economic Sector dari struktur RealmObject ke Room Entity.
 
+Mengimplementasikan pola Data Mapping dengan mengubah open class (Realm) menjadi data class (Room) untuk meningkatkan performa dan kemudahan pemeliharaan kode.
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile+✨;Mobile+%26+Backend+Developer+🚀;Kotlin+%7C+Swift+%7C+Go+%7C+Python+💻;Always+learning%2C+always+growing+🌱)](https://git.io/typing-svg)
 
 <br/>
