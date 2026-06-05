@@ -103,3 +103,6 @@
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,50:F05138,100:7F52FF&height=120&section=footer)
+
+<img atl="<img width="168" height="300" alt="image" src="https://github.com/user-attachments/assets/cf3914af-353e-4407-a60b-929d20581e09" />
+
